@@ -3,26 +3,6 @@
     2 ?        00:00:00 kthreadd
     3 ?        00:00:07 ksoftirqd/0
     6 ?        00:00:00 migration/0
-    7 ?        00:00:01 watchdog/0
-    8 ?        00:00:00 migration/1
-   10 ?        00:00:06 ksoftirqd/1
-   12 ?        00:00:01 watchdog/1
-   13 ?        00:00:00 migration/2
-   15 ?        00:00:04 ksoftirqd/2
-   16 ?        00:00:01 watchdog/2
-   17 ?        00:00:00 migration/3
-   19 ?        00:00:05 ksoftirqd/3
-   20 ?        00:00:01 watchdog/3
-   21 ?        00:00:00 cpuset
-   22 ?        00:00:00 khelper
-   23 ?        00:00:00 kdevtmpfs
-   24 ?        00:00:00 netns
-   26 ?        00:00:01 sync_supers
-   27 ?        00:00:00 bdi-default
-   28 ?        00:00:00 kintegrityd
-   29 ?        00:00:00 kblockd
-   30 ?        00:00:00 ata_sff
-   31 ?        00:00:00 khubd
    32 ?        00:00:00 md
    34 ?        00:00:00 khungtaskd
    35 ?        00:00:08 kswapd0
@@ -50,17 +30,6 @@
   849 ?        00:00:00 kworker/1:0
   868 ?        00:00:00 sshd
   877 ?        00:00:05 rsyslogd
-  885 ?        00:00:00 dbus-daemon
-  897 ?        00:00:00 modem-manager
-  899 ?        00:00:00 bluetoothd
-  902 ?        00:00:01 NetworkManager
-  909 ?        00:00:00 krfcommd
-  912 ?        00:00:13 avahi-daemon
-  914 ?        00:00:00 avahi-daemon
-  916 ?        00:00:00 polkitd
-  938 ?        00:00:00 cupsd
- 1017 tty4     00:00:00 getty
- 1025 tty5     00:00:00 getty
  1028 ?        00:00:00 gnome-settings-
  1033 tty2     00:00:00 getty
  1034 tty3     00:00:00 getty
